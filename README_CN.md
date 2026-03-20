@@ -29,7 +29,7 @@
 ---
 
 ## 开源协议
-MIT License - Copyright (c) 2026 1Acc
+MIT License - Copyright (c) 2026 AlexVera
 
 ## 作者
-- **1Acc**
+- **AlexVera**
