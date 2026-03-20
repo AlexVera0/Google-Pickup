@@ -1,13 +1,10 @@
 # Gmail OTP Extractor
 
-[English](#english) | [简体中文](#简体中文)
+A lightweight, real-time automation tool to extract verification codes (OTP) from Gmail. It uses **IMAP IDLE** technology for zero-latency efficiency.
 
 ---
 
-<a name="english"></a>
 ## English
-
-A lightweight, real-time automation tool to extract verification codes (OTP) from Gmail. It uses **IMAP IDLE** technology for zero-latency efficiency.
 
 ### Tech Stack
 - **Language**: Python 3.x
@@ -21,15 +18,18 @@ A lightweight, real-time automation tool to extract verification codes (OTP) fro
 - **Easy Configuration**: Separate config file for privacy and logic separation.
 
 ### Installation & Usage
-1. Configure `config.py` with your Gmail address and **16-character App Password**.
-2. Run the program:
+1. Clone the repo and copy `config.example.py` to `config.py`.
+2. Configure `config.py` with your Gmail address and **16-character App Password**.
+3. Run the program:
    ```bash
    python gmail_openai_otp.py
    ```
 
 ---
 
-<a name="简体中文"></a>
+<details>
+<summary><b>🇨🇳 简体中文内容 (点击展开)</b></summary>
+
 ## 简体中文
 
 这是一个轻量级的实时自动化工具，专门用于从 Gmail 中提取验证码（OTP）。采用 **IMAP IDLE** 技术，实现零延迟、零轮询、极低能耗。
@@ -46,16 +46,11 @@ A lightweight, real-time automation tool to extract verification codes (OTP) fro
 - **自动提取**：通过正则精准识别 6 位数字验证码。
 
 ### 安装与使用
-1. 在 `config.py` 中填写您的 Gmail 账号和 **16 位应用专用密码**。
-2. 运行程序：
+1. 克隆仓库，并将 `config.example.py` 复制为 `config.py`。
+2. 在 `config.py` 中填写您的 Gmail 账号和 **16 位应用专用密码**。
+3. 运行程序：
    ```bash
    python gmail_openai_otp.py
    ```
 
----
-
-## License
-MIT License - Copyright (c) 2026 1Acc
-
-## Author
-- **1Acc**
+</details>
