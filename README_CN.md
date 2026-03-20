@@ -32,4 +32,4 @@
 MIT License - Copyright (c) 2026 AlexVera
 
 ## 作者
-- **AlexVera**
+- **[AlexVera](https://github.com/AlexVera0)**

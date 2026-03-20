@@ -31,4 +31,4 @@ A lightweight, real-time automation tool to extract verification codes (OTP) fro
 MIT License - Copyright (c) 2026 AlexVera
 
 ## Author
-- **AlexVera**
+- **[AlexVera](https://github.com/AlexVera0)**
